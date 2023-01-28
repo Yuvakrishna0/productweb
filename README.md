@@ -26,7 +26,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## Code:
-'''
+```
 home.html
 
 <!DOCTYPE html>
@@ -692,7 +692,7 @@ styles.css
 
         }
 
-'''
+```
 
 ## Output:
 ![output](./ou1.png)

@@ -103,6 +103,8 @@ products.html
 
 <!DOCTYPE html>
 <html lang="en">
+
+
     <head>
         <title>
             Products
@@ -296,6 +298,8 @@ people.html
 
 <!DOCTYPE html>
 <html lang="en">
+
+
     <head>
         <title>
             People
@@ -490,6 +494,8 @@ conatct.html
 
 <!DOCTYPE html>
 <html lang="en">
+
+
     <head>
         <title>
             Contact Us
